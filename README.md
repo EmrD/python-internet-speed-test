@@ -2,7 +2,12 @@
 
 ## Usage
 
-1. Run the script:
+1. Install the requirements:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the script:
 
 ```bash
 python main.py
